@@ -6,6 +6,10 @@
   author: Betty Smith
   cover: /images/books/tree.png
 
+- title: Absalom, Absalom!
+  author: William Faulkner
+  cover: /images/books/absalom.png
+
 - title: Anna Karenina
   author: Leo Tolstoy
   cover: /images/books/anna.png
@@ -34,7 +38,7 @@
   author: Jack London
   cover: /images/books/call.png
 
-- title: Catch 22
+- title: Catch-22
   author: Joseph Heller
   cover: /images/books/catch22.png
 
@@ -78,9 +82,17 @@
   author: Vladimir Nabokov
   cover: /images/books/lolita.png
 
+- title: Lord of the Flies
+  author: William Golding
+  cover: /images/books/flies.png
+
 - title: Midnight's Children
   author: Salman Rushdie
   cover: /images/books/midnight.png
+
+- title: My Antonia
+  author: Willa Cather
+  cover: /images/books/antonia.png
 
 - title: One Hundred Years of Solitude
   author: Gabriel Garcia Marquez
@@ -114,6 +126,10 @@
   author: Junot Diaz
   cover: /images/books/brief.png
 
+- title: The Cask of Amontillado
+  author: Edgar Allen Poe
+  cover: /images/books/amontillado.png
+
 - title: The Count of Monte Cristo
   author: Alexandre Dumas
   cover: /images/books/clockwork.png
@@ -138,6 +154,10 @@
   author: Pearl S. Buck
   cover: /images/books/goodearth.png
 
+- title: The Grapes of Wrath
+  author: John Steinbeck
+  cover: /images/books/grapes.png
+
 - title: The Handmaid's Tale
   author: Margaret Atwood
   cover: /images/books/handmaid.png
@@ -146,9 +166,17 @@
   author: Robin McKinley
   cover: /images/books/hero.png
 
+- title: The Hobbit
+  author: J.R.R. Tolkien
+  cover: /images/books/hobbit.png
+
 - title: The Illustrated Man
   author: Ray Bradbury
   cover: /images/books/illustrated.png
+
+- title: The Left Hand of Darkness
+  author: Ursula K. Le Guin
+  cover: /images/books/left.png
 
 - title: The Lion, the Witch, and the Wardrobe
   author: C.S. Lewis
@@ -166,6 +194,10 @@
   author: Oscar Wilde
   cover: /images/books/dorian.png
 
+- title: The Wind in the Willows
+  author: Kenneth Grahame
+  cover: /images/books/wind.png
+
 - title: Things Fall Apart
   author: Chinua Achebe
   cover: /images/books/things.png
@@ -177,6 +209,10 @@
 - title: Whirligig
   author: Paul Fleischman
   cover: /images/books/whirligig.png
+
+- title: Wolf Hall
+  author: Hilary Mantel
+  cover: /images/books/wolfhall.png
 
 - title: Wuthering Heights
   author: Emily Bronte
