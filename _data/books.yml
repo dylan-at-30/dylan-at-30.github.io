@@ -22,6 +22,10 @@
   author: Seamus Heaney
   cover: /images/books/beowulf.png
 
+- title: Blood Meridian
+  author: Cormac McCarthy
+  cover: /images/books/blood.png
+
 - title: Brave New World
   author: Aldous Huxley
   cover: /images/books/brave.png
@@ -45,6 +49,10 @@
 - title: Ender's Game
   author: Orson Scott Card
   cover: /images/books/enders.png
+
+- title: Eragon
+  author: Christopher Paolini
+  cover: /images/books/eragon.png
 
 - title: Holes
   author: Louis Sachar
@@ -145,6 +153,10 @@
 - title: The Picture of Dorian Gray
   author: Oscar Wilde
   cover: /images/books/dorian.png
+
+- title: Treasure Island
+  author: Robert Louis Stevenson
+  cover: /images/books/treasure.png
 
 - title: Whirligig
   author: Paul Fleischman
