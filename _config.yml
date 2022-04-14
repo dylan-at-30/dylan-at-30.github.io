@@ -1,0 +1,29 @@
+# Site settings
+title: dylan at 30
+email:
+author:
+description:
+baseurl: ""
+url:
+date_format: "%b %-d, %Y"
+header_pages:
+ - books.html
+
+show_social_icons: false
+email:
+github_username:
+twitter_username:
+linkedin_username:
+youtube_id:
+photos:
+wemet:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock

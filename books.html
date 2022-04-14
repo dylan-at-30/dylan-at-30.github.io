@@ -1,0 +1,24 @@
+---
+layout: page
+title: Books
+show_title: true
+permalink: /books/
+tags: books
+---
+
+
+<div>
+  <table>
+    {% for book in site.data.books %}
+    <tr>
+      <td>
+        <h4>{{ book.title }}</h4>
+	      <small>{{ book.author }}</small>
+      </td>
+      <td style="vertical-align:middle; width:30%;">
+        <center><img src="{{ book.cover }}" style="max-height:200px; border-radius:10px;" /></center>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
