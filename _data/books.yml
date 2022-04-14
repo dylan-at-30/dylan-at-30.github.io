@@ -2,6 +2,14 @@
   author: Anthony Burgess
   cover: /images/books/clockwork.png
 
+- title: A Tree Grows in Brooklyn
+  author: Betty Smith
+  cover: /images/books/tree.png
+
+- title: Anna Karenina
+  author: Leo Tolstoy
+  cover: /images/books/anna.png
+
 - title: Artemis Fowl
   author: Eoin Colfer
   cover: /images/books/artemis.png
@@ -31,16 +39,40 @@
   cover: /images/books/crime.png
 
 - title: Dungeon Defense
-  author:
+  author: Yoo Heonhwa
   cover: /images/books/dungeon.png
 
 - title: Ender's Game
   author: Orson Scott Card
   cover: /images/books/enders.png
 
+- title: Holes
+  author: Louis Sachar
+  cover: /images/books/holes.png
+
 - title: In Cold Blood
   author: Truman Capote
   cover: /images/books/cold.png
+
+- title: Into the Wild
+  author: Jon Krakauer
+  cover: /images/books/into.png
+
+- title: Life of Pi
+  author: Yann Martel
+  cover: /images/books/life.png
+
+- title: Lolita
+  author: Vladimir Nabokov
+  cover: /images/books/lolita.png
+
+- title: Midnight's Children
+  author: Salman Rushdie
+  cover: /images/books/midnight.png
+
+- title: One Hundred Years of Solitude
+  author: Gabriel Garcia Marquez
+  cover: /images/books/onehundred.png
 
 - title: Redwall
   author: Brian Jacques
@@ -82,9 +114,25 @@
   author: Katherine Addison
   cover: /images/books/goblin.png
 
+- title: The Golden Compass
+  author: Philip Pullman
+  cover: /images/books/golden.png
+
+- title: The Good Earth
+  author: Pearl S. Buck
+  cover: /images/books/goodearth.png
+
+- title: The Handmaid's Tale
+  author: Margaret Atwood
+  cover: /images/books/handmaid.png
+
 - title: The Hero and the Crown
   author: Robin McKinley
   cover: /images/books/hero.png
+
+- title: The Lion, the Witch, and the Wardrobe
+  author: C.S. Lewis
+  cover: /images/books/lion.png
 
 - title: The Once and Future King
   author: T.H. White
@@ -97,3 +145,11 @@
 - title: The Picture of Dorian Gray
   author: Oscar Wilde
   cover: /images/books/dorian.png
+
+- title: Whirligig
+  author: Paul Fleischman
+  cover: /images/books/whirligig.png
+
+- title: Wuthering Heights
+  author: Emily Bronte
+  cover: /images/books/wuthering.png
