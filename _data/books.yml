@@ -1,7 +1,35 @@
+- title: Catch 22
+  author: Joseph Heller
+  cover: /images/books/dungeon.png
+
+- title: Dungeon Defense
+  author:
+  cover: /images/books/dungeon.png
+
 - title: Redwall
   author: Brian Jacques
   cover: /images/books/redwall.png
 
+- title: Stranger in a Strange Land
+  author: Robert Heinlein
+  cover: /images/books/stranger.png
+
+- title: The Bartimaeus Trilogy
+  author: Jonathan Stroud
+  cover: /images/books/bartimaeus.png
+
+- title: The Hero and the Crown
+  author: Robin McKinley
+  cover: /images/books/hero.png
+
+- title: The Once and Future King
+  author: T.H. White
+  cover: /images/books/once.png
+
 - title: The Plague
   author: Albert Camus
   cover: /images/books/theplague.png
+
+- title: The Picture of Dorian Gray
+  author: Oscar Wilde
+  cover: /images/books/dorian.png
