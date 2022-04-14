@@ -1,0 +1,24 @@
+---
+layout: page
+title: Games
+show_title: true
+permalink: /games/
+tags: games
+---
+
+
+<div>
+  <table>
+    {% for game in site.data.games %}
+    <tr>
+      <td>
+        <h4>{{ game.title }}</h4>
+	      <small>{{ game.year }}</small>
+      </td>
+      <td style="vertical-align:middle; width:30%;">
+        <center><img src="{{ game.cover }}" style="max-height:200px; border-radius:10px;" /></center>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>

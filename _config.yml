@@ -8,6 +8,7 @@ url:
 date_format: "%b %-d, %Y"
 header_pages:
  - books.html
+ - games.html
 
 show_social_icons: false
 email:
