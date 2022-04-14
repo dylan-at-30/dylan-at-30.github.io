@@ -1,14 +1,46 @@
+- title: A Clockwork Orange
+  author: Anthony Burgess
+  cover: /images/books/clockwork.png
+
+- title: Artemis Fowl
+  author: Eoin Colfer
+  cover: /images/books/artemis.png
+
+- title: Beloved
+  author: Toni Morrison
+  cover: /images/books/beloved.png
+
 - title: Beowulf
   author: Seamus Heaney
   cover: /images/books/beowulf.png
+
+- title: Brave New World
+  author: Aldous Huxley
+  cover: /images/books/brave.png
+
+- title: Call of the Wild
+  author: Jack London
+  cover: /images/books/call.png
 
 - title: Catch 22
   author: Joseph Heller
   cover: /images/books/catch22.png
 
+- title: Crime and Punishment
+  author: Fyodor Dostoevsky
+  cover: /images/books/crime.png
+
 - title: Dungeon Defense
   author:
   cover: /images/books/dungeon.png
+
+- title: Ender's Game
+  author: Orson Scott Card
+  cover: /images/books/enders.png
+
+- title: In Cold Blood
+  author: Truman Capote
+  cover: /images/books/cold.png
 
 - title: Redwall
   author: Brian Jacques
@@ -21,6 +53,34 @@
 - title: The Bartimaeus Trilogy
   author: Jonathan Stroud
   cover: /images/books/bartimaeus.png
+
+- title: The Bell Jar
+  author: Sylvia Plath
+  cover: /images/books/bell.png
+
+- title: The Black Cauldron
+  author: Lloyd Alexander
+  cover: /images/books/black.png
+
+- title: The Brief Wonderous Life of Oscar Wao
+  author: Junot Diaz
+  cover: /images/books/brief.png
+
+- title: The Count of Monte Cristo
+  author: Alexandre Dumas
+  cover: /images/books/clockwork.png
+
+- title: The Flowers of Evil
+  author: Charles Baudelaire
+  cover: /images/books/flowers.png
+
+- title: The Giver
+  author: Lois Lowry
+  cover: /images/books/giver.png
+
+- title: The Goblin Emperor
+  author: Katherine Addison
+  cover: /images/books/goblin.png
 
 - title: The Hero and the Crown
   author: Robin McKinley
