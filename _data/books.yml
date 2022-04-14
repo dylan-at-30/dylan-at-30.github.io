@@ -54,6 +54,10 @@
   author: Christopher Paolini
   cover: /images/books/eragon.png
 
+- title: For Whom the Bell Tolls
+  author: Ernest Hemingway
+  cover: /images/books/for.png
+
 - title: Holes
   author: Louis Sachar
   cover: /images/books/holes.png
@@ -85,6 +89,10 @@
 - title: Redwall
   author: Brian Jacques
   cover: /images/books/redwall.png
+
+- title: Siddhartha
+  author: Hermann Hesse
+  cover: /images/books/siddhartha.png
 
 - title: Stranger in a Strange Land
   author: Robert Heinlein
@@ -138,6 +146,10 @@
   author: Robin McKinley
   cover: /images/books/hero.png
 
+- title: The Illustrated Man
+  author: Ray Bradbury
+  cover: /images/books/illustrated.png
+
 - title: The Lion, the Witch, and the Wardrobe
   author: C.S. Lewis
   cover: /images/books/lion.png
@@ -153,6 +165,10 @@
 - title: The Picture of Dorian Gray
   author: Oscar Wilde
   cover: /images/books/dorian.png
+
+- title: Things Fall Apart
+  author: Chinua Achebe
+  cover: /images/books/things.png
 
 - title: Treasure Island
   author: Robert Louis Stevenson
