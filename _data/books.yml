@@ -46,6 +46,10 @@
   author: Fyodor Dostoevsky
   cover: /images/books/crime.png
 
+- title: Death of a Salesman
+  author: Arthur Miller
+  cover: /images/books/salesman.png
+
 - title: Dungeon Defense
   author: Yoo Heonhwa
   cover: /images/books/dungeon.png
