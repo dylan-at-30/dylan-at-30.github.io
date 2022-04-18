@@ -8,7 +8,7 @@
 
 - title: Abarat
   author: Clive Barker
-  cover: /images/books/absalom.png
+  cover: /images/books/abarat.png
 
 - title: Absalom, Absalom!
   author: William Faulkner
@@ -118,9 +118,17 @@
   author: Hermann Hesse
   cover: /images/books/siddhartha.png
 
+- title: Sons and Lovers
+  author: D.H. Lawrence
+  cover: /images/books/sons.png
+
 - title: Stranger in a Strange Land
   author: Robert Heinlein
   cover: /images/books/stranger.png
+
+- title: Tess of the D'Urbervilles
+  author: Thomas Hardy
+  cover: /images/books/tess.png
 
 - title: The Bartimaeus Trilogy
   author: Jonathan Stroud
