@@ -74,6 +74,10 @@
   author: Ernest Hemingway
   cover: /images/books/for.png
 
+- title: Frankenstein
+  author: Mary Shelley
+  cover: /images/books/frankenstein.png
+
 - title: Holes
   author: Louis Sachar
   cover: /images/books/holes.png
@@ -109,6 +113,10 @@
 - title: One Hundred Years of Solitude
   author: Gabriel Garcia Marquez
   cover: /images/books/onehundred.png
+
+- title: Our Mutual Friend
+  author: Charles Dickens
+  cover: /images/books/mutual.png
 
 - title: Redwall
   author: Brian Jacques
