@@ -6,6 +6,10 @@
   author: Betty Smith
   cover: /images/books/tree.png
 
+- title: Abarat
+  author: Clive Barker
+  cover: /images/books/absalom.png
+
 - title: Absalom, Absalom!
   author: William Faulkner
   cover: /images/books/absalom.png
@@ -53,6 +57,10 @@
 - title: Dungeon Defense
   author: Yoo Heonhwa
   cover: /images/books/dungeon.png
+
+- title: Emma
+  author: Jane Austen
+  cover: /images/books/emma.png
 
 - title: Ender's Game
   author: Orson Scott Card
@@ -137,6 +145,10 @@
 - title: The Count of Monte Cristo
   author: Alexandre Dumas
   cover: /images/books/count.png
+
+- title: The Elfstones of Shannara
+  author: Terry Brooks
+  cover: /images/books/shannara.png
 
 - title: The Flowers of Evil
   author: Charles Baudelaire
